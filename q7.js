@@ -1,4 +1,4 @@
-function menorValor (a,b,c){
+const menorValor = (a,b,c) => {
     if (a<b && c){
         return a
     }

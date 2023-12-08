@@ -1,4 +1,4 @@
-function quantosIguais (a, b, c) {
+const quantosIguais = (a, b, c) => {
     if (a==b && b==c){
         return "Todos iguais!" 
     }

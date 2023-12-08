@@ -1,4 +1,4 @@
-function calcAreaREt (base,altura){
+const calcAreaREt = (base,altura) => {
     return base * altura 
 
 };
